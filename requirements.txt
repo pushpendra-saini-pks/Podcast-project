@@ -9,3 +9,4 @@ pinecone-text
 langchain_groq
 streamlit
 ipykernel
+moviepy 
